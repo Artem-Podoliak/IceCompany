@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Artem-Podoliak.github.io/IceCompany",
+  "homepage": "https://Artem-Podoliak.github.io/iceCompany",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Ice-Company/"
+    "build": "parcel build src/*.html --public-url /iceCompany/"
   },
   "repository": {
     "type": "git",
